@@ -1,11 +1,34 @@
 {
   "users": [
-    { "id": "23", "firstName": "Bill", "age": 20, "companyId": "1" },
-    { "id": "40", "firstName": "Alex", "age": 40, "companyId": "2" },
-    { "id": "51", "firstName": "Sara", "age": 45, "companyId": "2" }
+    {
+      "id": "23",
+      "firstName": "Bill",
+      "age": 20,
+      "companyId": "1"
+    },
+    {
+      "id": "40",
+      "firstName": "Alexia",
+      "age": 40,
+      "companyId": "2"
+    },
+    {
+      "id": "51",
+      "firstName": "Sara",
+      "age": 45,
+      "companyId": "2"
+    }
   ],
   "companies": [
-    { "id": "1", "name": "Apple", "description": "Maker of all apple products"},
-    { "id": "2", "name": "Google", "description": "Founded the term 'google it' "}
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "Maker of all apple products"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "Founded the term 'google it' "
+    }
   ]
 }
