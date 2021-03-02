@@ -13,7 +13,9 @@ class SongDetail extends Component {
     // console.log(this.props); 
     const { song } = this.props.data;
 
-    if (!song) { return <div>Loading...</div>; }
+    if (!song) { 
+      return <div>Loading...</div>; 
+    }
 
     return (
       <div>
